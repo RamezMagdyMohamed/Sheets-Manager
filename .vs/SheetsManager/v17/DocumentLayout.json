@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|e:\\kaitech\\bim application development\\graduation project\\sheetsmanager\\sheetsmanager\\revit\\exteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|solutionrelative:sheetsmanager\\revit\\exteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\sheetsmanager\\revit\\revitutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|solutionrelative:sheetsmanager\\revit\\revitutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\sheetsmanager\\extapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|solutionrelative:sheetsmanager\\extapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\sheetsmanager\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCB6612-8F0B-400C-B4E6-1CA4C57F0F04}|SheetsManager\\SheetsManager.csproj|solutionrelative:sheetsmanager\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtEventHandler.cs",
+              "DocumentMoniker": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\Revit\\ExtEventHandler.cs",
+              "RelativeDocumentMoniker": "SheetsManager\\Revit\\ExtEventHandler.cs",
+              "ToolTip": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\Revit\\ExtEventHandler.cs",
+              "RelativeToolTip": "SheetsManager\\Revit\\ExtEventHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:21:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevitUtils.cs",
+              "DocumentMoniker": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\Revit\\RevitUtils.cs",
+              "RelativeDocumentMoniker": "SheetsManager\\Revit\\RevitUtils.cs",
+              "ToolTip": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\Revit\\RevitUtils.cs",
+              "RelativeToolTip": "SheetsManager\\Revit\\RevitUtils.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwHAAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T01:19:09.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtApp.cs",
+              "DocumentMoniker": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\ExtApp.cs",
+              "RelativeDocumentMoniker": "SheetsManager\\ExtApp.cs",
+              "ToolTip": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\ExtApp.cs",
+              "RelativeToolTip": "SheetsManager\\ExtApp.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:48:25.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "SheetsManager\\UI\\MainForm.cs",
+              "ToolTip": "E:\\Kaitech\\BIM Application Development\\Graduation project\\SheetsManager\\SheetsManager\\UI\\MainForm.cs",
+              "RelativeToolTip": "SheetsManager\\UI\\MainForm.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv6sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:48:35.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\bin\Debug\SheetsManager.dll
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\bin\Debug\SheetsManager.pdb
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.csproj.AssemblyReference.cache
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.UI.AddNewSheetForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.UI.MainForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.UI.ParametersForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.csproj.GenerateResource.cache
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.csproj.CoreCompileInputs.cache
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.dll
+E:\Kaitech\BIM Application Development\Graduation project\Backups\SheetsManager - Backup 3\SheetsManager\obj\Debug\SheetsManager.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\SheetsManager.dll.config
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\SheetsManager.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\SheetsManager.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\EPPlus.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Auth.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Core.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Drive.v3.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Newtonsoft.Json.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Buffers.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.CodeDom.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Memory.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Numerics.Vectors.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\EPPlus.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Auth.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Auth.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Core.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Core.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Drive.v3.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Google.Apis.Drive.v3.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\Newtonsoft.Json.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Buffers.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.CodeDom.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Memory.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Numerics.Vectors.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.csproj.AssemblyReference.cache
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.UI.AddNewSheetForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.UI.AddViewsForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.UI.ExportImportForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.UI.ExportImportVForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.UI.MainForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.UI.ParametersForm.resources
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.csproj.GenerateResource.cache
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.csproj.CoreCompileInputs.cache
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsMa.C3117DFC.Up2Date
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.dll
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.pdb
+E:\Kaitech\BIM Application Development\Graduation project\SheetsManager\SheetsManager\obj\Debug\SheetsManager.Properties.Resources.resources
